@@ -1,6 +1,14 @@
 #include "sortedList.cpp"
 #include "sortedArray.cpp"
-using namespace std;
+using namespace std; 
+/**
+Samuel Salas 
+Programming assignment number: 5
+Sorted list and sorted array
+COSC III Data Structure 
+The date
+*/
+
 
 int main() {
     SortedList sortedList;
@@ -16,8 +24,18 @@ int main() {
     sortedArray.printArray();
 
     // Question 2:
+    function 
+        vaidatasortedCollections(sortedList,sortedArray): 
+    for index in range (size of sortedArray):
+    if sortedList.getValueAt(index):
+== sortedArray.getValueAt(index):
+
+        print(sortedList.getValue(index))
+        else:
+        print("warning mismatch at index" + index)
+        break
     
-    // Question 3:
+
 
     return 0;
 }
